@@ -32,6 +32,13 @@ blockquote
     display: none;
 }
 
+.myself
+{
+    width: 250px;
+    height: 250px;
+    transition: width 2s, height 4s;
+}
+
 .myself:hover + blockquote
 {
     display: inherit;
