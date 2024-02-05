@@ -2,7 +2,7 @@
 {
     display: grid;
     background-color: rgb(149, 204, 243);
-    grid-template-columns: 50px repeat(3, 150px);
+    grid-template-columns: 50px 425px repeat(3, 150px);
     grid-template-rows: 50px;
 }
 
@@ -15,7 +15,17 @@
 .navbar-container a
 {
     font-size: 35px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
     text-align: center;
     text-decoration: none;
     outline: 1px solid black;
+}
+
+.navbar-container h1
+{
+    font-size: 30px;
+    display: grid;
+    align-items: center;
 }
