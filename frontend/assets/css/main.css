@@ -6,3 +6,11 @@
     margin: 0;
     padding: 0;
 }
+
+.footer
+{
+    display: grid;
+    background-color: rgb(149, 204, 243);
+    grid-template-columns: repeat(2, 300px);
+    grid-template-rows: 50px;
+}
