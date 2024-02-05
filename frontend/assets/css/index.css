@@ -36,3 +36,13 @@ blockquote
 {
     display: inherit;
 }
+
+.percentage
+{
+    display: none;
+}
+
+#degree-progress:hover + .percentage
+{
+    display: inherit;
+}
