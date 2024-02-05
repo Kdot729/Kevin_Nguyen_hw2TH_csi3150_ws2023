@@ -21,6 +21,21 @@ h1
     grid-template-rows: 50px;
 }
 
+a:link 
+{
+    color: darkmagenta;
+}
+
+a:visited
+{
+    color: rgb(252, 18, 217);
+}
+
+a:hover
+{
+    color: yellow;
+}
+
 .background-color
 {
     background-color: rgb(209, 219, 227);

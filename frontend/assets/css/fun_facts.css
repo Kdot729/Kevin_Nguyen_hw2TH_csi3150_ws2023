@@ -7,17 +7,6 @@
 .fun-facts h1 a
 {
     text-decoration: none;
-    color: darkmagenta;
-}
-
-.fun-facts h1 a:visited
-{
-    color: rgb(252, 18, 217);
-}
-
-.fun-facts h1 a:hover
-{
-    color: yellow;
 }
 
 .fun-facts
