@@ -36,7 +36,12 @@ blockquote
 {
     width: 250px;
     height: 250px;
-    transition: width 2s, height 4s;
+    transition: width 2s;
+}
+
+.myself:hover
+{
+    width: 709px;
 }
 
 .myself:hover + blockquote
