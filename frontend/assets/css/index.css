@@ -1,0 +1,7 @@
+.about-me-container
+{
+    display: grid;
+    background-color: rgb(209, 219, 227);
+    grid-template-columns: 100%;
+    grid-template-rows: 500px;
+}
