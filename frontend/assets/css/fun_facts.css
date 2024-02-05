@@ -4,6 +4,12 @@
     color: blueviolet;
 }
 
+.fun-facts h1 a
+{
+    text-decoration: none;
+    color: darkmagenta;
+}
+
 .fun-facts
 {
     display: grid;
